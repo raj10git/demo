@@ -6,5 +6,7 @@ testing 1
 testing 2
 
 
+branch test
+
 
 Checking merge conflict
