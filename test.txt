@@ -4,7 +4,7 @@ Welcome to demo repo.
 
 testing 1
 testing 2
-testing 3
 
 
-for removal
+
+Checking merge conflict
