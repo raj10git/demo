@@ -3,8 +3,13 @@
 Welcome to demo repo.
 
 testing 1
+
+testing branch merge
+
 testing 2
 
+
+branch test
 
 
 Checking merge conflict
